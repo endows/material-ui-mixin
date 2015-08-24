@@ -10,7 +10,7 @@ It made to simple your material-life.
 ## Using
 You can use `Material-UI`,just add one line.
 ```
-var App = React.createClass({
+App = React.createClass({
     mixin:[MaterialUIMixin],
     render: function() {
         return (
