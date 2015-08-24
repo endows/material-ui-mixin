@@ -24,5 +24,5 @@ var App = React.createClass({
 ```
 
 ## Demo
-[material-ui-mixin.meteor.com](http://material-ui-mixin.meteor.com)
+<a target='_brank' href='http://material-ui-mixin.meteor.com'>デモページ</a>
 ![代替テキスト](Dirty.png)
