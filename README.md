@@ -24,5 +24,5 @@ var App = React.createClass({
 ```
 
 ## Demo
-![代替テキスト](Dirty.png)
 [material-ui-mixin.meteor.com](http://material-ui-mixin.meteor.com)
+![代替テキスト](Dirty.png)
